@@ -29,8 +29,7 @@ h2{
 
 .card p{
 	font-family: 'Open Sans', sans-serif;
-	font-size: 20px;
-	font-weight: 400;
+	font-size: 16px;
 }
 
 .msg{
@@ -83,4 +82,44 @@ button:focus {outline: none;}
 img{
 	height:25px;
 	width:25px;
+}
+
+@media(max-width: 768px){
+
+h2{
+	padding: 5px;
+	font-size: 18px;
+	margin-top: 5px;
+}
+
+.btn:hover {
+  opacity: 1;
+}
+
+.b-nav {
+	padding-bottom: 1em;
+	position: fixed;
+	/*width: 100%;*/
+  	bottom: 0.3rem;
+  	left: 30%;
+}
+
+
+.btn{
+	height:40px; 
+	width:130px;
+	font-size: 16px;
+}
+
+.card{
+	padding:5px 10px 5px 10px;
+	margin:10px auto;
+	max-width:300px;
+} 
+
+.content{
+	margin: 0;
+	max-width: 300px;
+}
+
 }

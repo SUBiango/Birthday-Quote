@@ -1,0 +1,77 @@
+body{
+	background-color: indigo; 
+	overflow-x: hidden;
+  overflow-y: hidden; 
+  height: 100vh;
+  width: 100vw;
+	background-image: url('https://wallpapercave.com/wp/5KLTq1z.jpg');
+}
+
+.content{
+	margin: auto;
+	max-width: 600px;
+	padding-top: 1px;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+}
+
+h2{
+	background-color: #1c1c1c; 
+	color:#ffffff;
+	padding:10px;
+	font-family: arial, sans-serif;
+	text-align: center;
+	border-radius: 5px;
+}
+
+.card p{
+	font-family: font-family: "Adobe Caslon Pro", "Hoefler Text", Georgia, Garamond, Times, serif;
+	font-size: 20px;
+	font-weight: 400;
+}
+
+.b-nav {
+	padding-bottom: 5em;
+	position: fixed;
+	/*width: 100%;*/
+  	bottom: 1rem;
+  	left: 45%;
+}
+
+
+.btn{
+	height:50px; 
+	width:150px;
+	font-size: 18px;
+	color:#ffffff;
+	background-color: #e8491d;
+	border:none;
+	padding:5px;
+	border-radius: 5px;
+	transition: 0.5s;
+}
+
+.btn:hover {
+  background-color: white;
+  color: black;
+  border: thin solid black;
+  opacity: 0.8;
+}
+
+.card{
+	font-family: arial, sans-serif;
+	padding:15px 30px 15px 30px;
+	margin:30px auto;
+	max-width:500px;
+	max-height:300px;
+	text-align: center;
+	background-color: #ffffff;
+	border-radius: 5px;
+} 
+button:focus {outline: none;}
+
+img{
+	height:25px;
+	width:25px;
+}

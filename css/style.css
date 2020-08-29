@@ -4,7 +4,9 @@ body{
   overflow-y: hidden; 
   height: 100vh;
   width: 100vw;
-	background-image: url('https://wallpapercave.com/wp/5KLTq1z.jpg');
+	background-image: url('https://images.pexels.com/photos/810036/pexels-photo-810036.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+	background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .content{
@@ -26,9 +28,15 @@ h2{
 }
 
 .card p{
-	font-family: font-family: "Adobe Caslon Pro", "Hoefler Text", Georgia, Garamond, Times, serif;
+	font-family: 'Open Sans', sans-serif;
 	font-size: 20px;
 	font-weight: 400;
+}
+
+.msg{
+	font-size: 20px;
+	font-weight: 400;
+	color: white;
 }
 
 .b-nav {
@@ -60,7 +68,7 @@ h2{
 }
 
 .card{
-	font-family: arial, sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	padding:15px 30px 15px 30px;
 	margin:30px auto;
 	max-width:500px;

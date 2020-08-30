@@ -18,6 +18,7 @@ btn.addEventListener('click', displayQuote);
 
 
 var quotes = [
+  'Happiest birthday dear brother, you have always been a star of eye I am very happy to have you in my life. Wishing you tons of love and happiness in your world! 🍻🎂🥂 - SAM HARRISON',
   'Happy Birthday to this young, intelligent, and very enterprising brother of mine, with of course very high moral values! I am proud to have met you and the PGM is also grateful to have you around. Wish you many more years to come! Blessings. - SENNEH MOIJUEH (PGM)',
   'Happy Birthday Pa Faidowor. I wish you many years wiv abundant blessings. - ISHIAKA BIANGO',
   'Blessed bday bro. Best wishes on ur new age. - MEDBOCKS (PGM)',
